@@ -1,5 +1,5 @@
 # HighStand
-SMALL UILITIES BY VANILLA TWEAKS AND SMALL TOTEM POP BY PYCAT#6987
+CHECK THE CREDITS
 You can edit this texture pack, but please credit me in the file.
 This pack was inspired by history, although a lot of 'poetic' license has been taken.
 ENJOY!
